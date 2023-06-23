@@ -1,0 +1,17 @@
+# mas_solarsystem_params.yaml
+
+# Paramètres de la simulation du système solaire
+
+echelle_espace: 1.0
+echelle_temps: 1.0
+
+position_terre:
+  x: 0.0
+  y: 0.0
+  z: 0.0
+
+position_mars:
+  x: 1.0
+  y: 0.0
+  z: 0.0
+
